@@ -2,7 +2,7 @@
 
 # Important Dates
 
-**15 August, 2015:** Detailed Rules release by SpaceX
+**August 15th, 2015:** Detailed Rules release by SpaceX
 
 **15 September, 2015:** Deadline to submit Intent to Compete
 
