@@ -12,17 +12,3 @@ The rLoop is a diverse group of Redditors from all around the world, in the earl
 [Nasa Sizing Models](https://mdao.grc.nasa.gov/publications/AIAA-2015-1587.pdf)
 
 [OpenSource System Model of Hyperloop](https://github.com/OpenMDAO-Plugins/Hyperloop)
-
-**Important dates:**
-
-**15 August, 2015:** Detailed Rules release by SpaceX
-
-**15 September, 2015:** Deadline to submit Intent to Compete
-
-**15 October, 2015:** Deadline to submit Preliminary Design Briefing
-
-**15 December, 2015:** Final Design Package submission
-
-**9 January, 2016:** In-person Design Review, Texas A&M Univ, College Station, Texas
-
-**June, 2016:** Competition Weekend, Hawthorne, California (Exact date TBA)
