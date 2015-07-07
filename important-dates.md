@@ -1,6 +1,6 @@
-#Important Dates
+# Important Dates
 
-#Important Dates
+# Important Dates
 
 **15 August, 2015:** Detailed Rules release by SpaceX
 
